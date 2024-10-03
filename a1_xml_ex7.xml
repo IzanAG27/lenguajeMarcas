@@ -8,13 +8,9 @@
 </datos>
 
 
-<datos>
-    <persona id="1">
-        <nombre>Pere</nombre>
-        <apellido> Pérez </apellido>
-    </persona>
-    <persona id="2">
-        <apellido>Garcia</apellido>
-        <edad>22</edad>
-    </persona> 
-</datos>
+<persona>
+    <nombre>Pere</nombre>
+    <apellido>Pérez</apellido>
+    <apellido2>Garcia</apellido2>
+    <edad>22</edad>
+</persona>
