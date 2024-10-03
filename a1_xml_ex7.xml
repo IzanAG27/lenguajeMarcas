@@ -1,0 +1,20 @@
+<datos>
+    <persona>
+        <nombre>Pere Garcia</nombre>
+    </persona>
+    <perro>
+        <nombre>Rufy</nombre>
+    </perro>
+</datos>
+
+
+<datos>
+    <persona id="1">
+        <nombre>Pere</nombre>
+        <apellido> Pérez </apellido>
+    </persona>
+    <persona id="2">
+        <apellido2>Garcia</apellido2>
+        <edad>22</edad>
+    </persona> 
+</datos>

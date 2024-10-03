@@ -9,7 +9,7 @@
         <Ciudad CP="08009">Barcelona</Ciudad>
       </Direccion>
     </Empleado>
-  </Empresa>
+</Empresa>
 
 <!-- en XML, "Calle" es un atributo válido para "Dirección" 
  porque describe una parte de ella, calle no es válido para 
