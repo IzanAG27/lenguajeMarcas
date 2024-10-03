@@ -1,0 +1,5 @@
+<alumno>
+    <nombre>Juan</nombre>
+    <apellido>García</apellido>
+    <fecha_nacimiento ciudad="Barcelona">23/02/2001</fecha_nacimiento>
+</alumno>
