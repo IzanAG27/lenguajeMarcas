@@ -14,7 +14,7 @@
         <apellido> Pérez </apellido>
     </persona>
     <persona id="2">
-        <apellido2>Garcia</apellido2>
+        <apellido>Garcia</apellido>
         <edad>22</edad>
     </persona> 
 </datos>
