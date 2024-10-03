@@ -1,0 +1,14 @@
+<!-- Texto corregido -->
+
+<xml>pais</xml>
+<dia>21</dia>
+<mes>10</mes>
+<ciudad>barcelona</ciudad>
+<Ciudad>barcelona</Ciudad>
+<colores2>Naranja y verde</colores2>
+<rojo></rojo>
+<Aficiones>Cine, bailar, nadar</Aficiones>
+<persona>
+    <nombre>Maria</nombre>
+</persona>
+<colorFavorito>blanco</colorFavorito>
