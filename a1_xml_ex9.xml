@@ -1,0 +1,60 @@
+<libro_cocina>
+    <recipe id="1">
+        <name>Macarrones con tomate</name>
+        <tiempo_de_preparacion>20 minutos</tiempo_de_preparacion>
+
+        <ingredientes>
+            <ingrediente id="1">
+                <name>Salsa de tomate</name>
+                <cantidad>100</cantidad>
+                <unidad>ml</unidad>
+            </ingrediente>
+
+            <ingrediente id="2">
+                <name>Macarrones</name>
+                <cantidad>300</cantidad>
+                <unidad>gramos</unidad>
+            </ingrediente>
+
+            <ingrediente id="3">
+                <name>Chorizo</name>
+                <cantidad>50</cantidad>
+                <unidad>gramos</unidad>
+            </ingrediente>
+        </ingredientes>
+
+        <preparacion>
+            <paso num="1">Hervir agua en una olla</paso>
+            <paso num="2">Echar los macarrones en la olla</paso>
+            <paso num="3">Cortar chorizo, freirlo un poco y esperar</paso>
+            <paso num="4">Cuando los macarrones estén listos, colarlos en un colador para sacar todo el agua</paso>
+            <paso num="5">Juntar todos los ingredientes en la olla de los macarrones y servir al gusto.</paso>
+        </preparacion>
+
+    </recipe>
+    <recipe id="2">
+        <name>Huevo frito</name>
+        <tiempo_de_preparacion>5 minutos</tiempo_de_preparacion>
+
+        <ingredientes>
+            <ingrediente id="1">
+                <name>Huevo</name>
+                <cantidad>1</cantidad>
+                <unidad>unidad</unidad>
+            </ingrediente>
+
+            <ingrediente id="2">
+                <name>Aceite</name>
+                <cantidad>20</cantidad>
+                <unidad>ml</unidad>
+            </ingrediente>
+        </ingredientes>
+
+        <preparacion>
+            <paso num="1">En una sartén, echar aceite y calentarlo en el fuego.</paso>
+            <paso num="2">Cuando el aceite esté caliente se echa el huevo en el aceite con cuidado.</paso>
+            <paso num="3">Cuando el huevo esté hecho, retirarlo sobre un plato con papel para eliminar el exceso de aceite.</paso>
+            <paso num="4">Retirar el papel y el huevo estará listo para servir</paso>
+        </preparacion>
+    </recipe>
+</libro_cocina>

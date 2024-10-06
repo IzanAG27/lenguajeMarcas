@@ -1,0 +1,7 @@
+<museum>
+    <artworks>
+        <artwork titulo="Azul sobre blanco" artista="Pere Águila" anyo="2014" medium="óleo"/>
+        <artwork titulo="Gris oscuro" artista="Pere Águila" anyo="2010" medium="acuarela"/>
+        <artwork titulo="Camino largo" artista="Marta Lambert" anyo="1981" medium="mármol"/>
+    </artworks>
+</museum>

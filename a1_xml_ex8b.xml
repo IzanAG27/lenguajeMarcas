@@ -1,3 +1,5 @@
 <establecimientos>
-    <bar_pasqual tipo_establecimiento="bar_tapas"></bar_pasqual>
+    <bar_pasqual tipo_establecimiento="bar_tapas" propiedad="Joan Alcover" direccion="Avenida Diagonal 232"/>
+    <meravelles tipo_establecimiento="menu" propiedad="Maria Garcia" direccion="Meridiana 111"/>
+    <raco_de_lavia tipo_establecimiento="menu" propiedad="Alba Puig" direccion="Av. Roma 221"/>
 </establecimientos>
