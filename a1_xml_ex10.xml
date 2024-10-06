@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inversion>
+    <pais nombre="Francia">
+        <informacion_geografica>
+            <capital>Paris</capital> 
+        </informacion_geografica>
+        
+        <informacion_financiera>
+            <capital>1200M€</capital> 
+        </informacion_financiera>
+    </pais>
+</inversion>
