@@ -1,0 +1,16 @@
+{
+    "establecimientos": {
+        "bar_pasqual": {
+            "tipo_establecimiento": "Bar de tapas",
+            "direccion": "Avenida diagonal 232",
+            "propietario": "Joan Alcover"},
+        "meravelles": {
+            "tipo_establecimiento": "Restaurante de menús",
+            "direccion": "Meridiana 111",
+            "propietario": "Maria Garcia"},
+        "raco_de_lavia": {
+            "tipo_establecimiento": "Restaurante de menús",
+            "direccion": "Av. Roma 221",
+            "propietario": "Alba Puig"}
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "obras_museo": {
+        "azul_sobre_blanco": {
+            "denominacion":"abstracto",
+            "autor":"Pere Àguila",
+            "fecha":"2014",
+            "tipo_pintura":"Óleo"
+        },
+        "gris_oscuro": {
+            "denominacion":"abstracto",
+            "autor":"Pere Àguila",
+            "fecha":"2010",
+            "tipo_pintura":"Acuarela"
+        },
+        "camino_largo": {
+            "denominacion":"escultura",
+            "autor":"Marta Lambert",
+            "fecha":"1981",
+            "material":"Mármol"
+        }
+    }
+}
